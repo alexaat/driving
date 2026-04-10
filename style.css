@@ -18,7 +18,7 @@ body {
     width: 200px;
     position: fixed;
     left: 4px;  
-    color: white;  
+    color: #eee;  
     background-color: #333;
 }
 
@@ -37,7 +37,7 @@ nav{
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;  
     margin-left: 8px;
     font-weight: bold;
-    color: white;  
+    color: #eee;  
 }
 
 #menu_icon{
@@ -59,7 +59,7 @@ nav{
     z-index: 1;
     background-color: white;
     border: 1px solid rgb(160, 160, 160);
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Courier New', Courier, monospace;
     display: none;  
 }
 
@@ -88,10 +88,10 @@ nav{
 }
 
 .title{
-    color: rgb(29, 29, 29);   
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #eee;   
+    font-family: 'Courier New', Courier, monospace;
     padding: 8px 4px;
-    background-color: rgb(219, 219, 219);
+    background-color: #555;
 }
 
 .image{
@@ -105,12 +105,10 @@ nav{
 
 .menu_item{
    font-size: 24px;
-   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   font-family: 'Courier New', Courier, monospace;
    padding: 8px 4px;
    border-bottom: 1px solid #666;
    border-left: 1px solid #666;
-   font-weight: bold;
-
 }
 
 .menu_item:hover{
