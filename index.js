@@ -36,6 +36,21 @@ const data_map = {
             'title': 'Turning from St. Helier Avenue to Morden Road',
             'image': 'mordenhall roundabout to croydon.jpeg',
             'video': 'https://www.youtube.com/embed/M58sEARvNn8'
+        },
+        {
+            'title': 'Turning from Morden Road to Morden Hall Road',
+            'image': 'mordenhall roundabout to central london.jpeg',
+            'video': 'https://www.youtube.com/embed/uuJaIpd42WA'           
+        },
+        {
+            'title': 'Turning from Central Road to St. Helier Avenue',
+            'image': 'mordenhall roundabout to m25.jpeg',
+            'video': 'https://www.youtube.com/embed/VZrueQsI7BU'           
+        },
+        {           
+            'title': 'Turning from Morden Hall Road to Central Road',
+            'image': 'toNorthCheam.png',
+            'video': 'https://www.youtube.com/embed/fGVy0HCafg0'
         }
     ],
     'Morden Road Roundabout': [
