@@ -15,6 +15,20 @@ const data_map = {
             'title': 'Turning from Bishopsford Road towards Sutton',
             'image': 'Rosehill from bishopsford road to sutton.jpeg',
             'video': 'https://www.youtube.com/embed/Ty70VtpKNug'            
+        },
+        {
+            'title': 'Turning from Rose Hill towards St. Helier Avenue',
+            'image': 'Rose Hill to St Helier Avenue.png',
+            'video': 'https://www.youtube.com/embed/OqWAsnIHnzg'  
+        },
+        {
+            'title': 'Turning from Green Lane towards Reigate and M25',
+            'image': 'RosehillGreenLaneToReigateAv.png',
+            'video': 'https://www.youtube.com/embed/2JbtDTvbXUo'
+        },
+        {
+            'title': 'Work station',
+            'image': 'Rosehill_with_markings.png'
         }
     ],
     'Morden Hall Roundabout': [
