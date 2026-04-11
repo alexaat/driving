@@ -71,6 +71,20 @@ const data_map = {
             'title': 'Morden Hall Road to Morden Road using Right Lane',            
             'video': 'https://www.youtube.com/embed/Vjde8-TdlgA'
         }
+    ],
+    'Civic Centre': [
+        {
+            'title': 'Civic Center to Central London',
+            'image': 'Civic_Center_to_London.jpg', 
+            'video': 'https://www.youtube.com/embed/KP0O5GTaT-o'       
+        }
+    ],
+    'Dual Carriageways': [
+        {
+            'title': 'Reigate Avenue to Sutton Common Road',
+            'image': 'ToLowerMorden.jpg', 
+            'video': 'https://www.youtube.com/embed/a8_k9d6D2Wg'       
+        }
     ]
 }
 const menu = document.querySelector('#menu');
