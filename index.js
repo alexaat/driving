@@ -109,6 +109,26 @@ const data_map = {
             'image': 'CanterburyRoadToGreenLane.png', 
             'video': 'https://www.youtube.com/embed/JV9UCQzYnI4'           
         }
+    ],
+    'Traffic Lights': [
+        {
+            'title': 'Middleton Road to St. Helier Avenue',            
+            'video': 'https://www.youtube.com/embed/tcbjVL40Ys4'       
+        },
+        {
+            'title': 'Epsom Road to Tudor Drive',            
+            'video': 'https://www.youtube.com/embed/gCS0YMbZggE'    
+        }
+    ],
+    'Extra': [
+        {
+            'title': 'Quarry Park Road to Gander Green Lane',            
+            'video': 'https://www.youtube.com/embed/_qm5QtdQ5yY'            
+        },
+        {
+            'title': 'York Road to Grove Road',            
+            'video': 'https://www.youtube.com/embed/J2nOgSRn5s8'   
+        }
     ]
 }
 const menu = document.querySelector('#menu');
