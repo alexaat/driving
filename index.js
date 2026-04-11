@@ -84,6 +84,30 @@ const data_map = {
             'title': 'Reigate Avenue to Sutton Common Road',
             'image': 'ToLowerMorden.jpg', 
             'video': 'https://www.youtube.com/embed/a8_k9d6D2Wg'       
+        },
+        {
+            'title': 'Epsom Road',             
+            'video': 'https://www.youtube.com/embed/wRrgf7XELi4'       
+        },
+        {
+            'title': 'Central Road to Green Lane',
+            'image': 'CentralRoad.png', 
+            'video': 'https://www.youtube.com/embed/Q3R7utQI8x8'           
+        },
+        {
+            'title': 'Green Lane to Love Lane',
+            'image': 'DualCarriagewayGreenLaneToLoveLane.png', 
+            'video': 'https://www.youtube.com/embed/95I8YWLfjfc'
+        },
+        {
+            'title': 'Love Lane to Green Lane',
+            'image': 'DualCarriagewayLoveLaneToGreenLane.png', 
+            'video': 'https://www.youtube.com/embed/pYs18APwVeQ'
+        },
+        {
+            'title': 'Canterbury Road to Green Lane',
+            'image': 'CanterburyRoadToGreenLane.png', 
+            'video': 'https://www.youtube.com/embed/JV9UCQzYnI4'           
         }
     ]
 }
