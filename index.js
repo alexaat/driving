@@ -253,7 +253,7 @@ function manage_selection(){
 }
 
 // click listener for menu icon
-window.addEventListener('click', e => {    
+document.addEventListener('click', e => {
     if (e.target.getAttribute('id') == 'menu_icon'){
         drop_list.style.display = 'block';        
     } else {
@@ -261,7 +261,7 @@ window.addEventListener('click', e => {
     }
 });
 
-window.addEventListener("blur", () => {
+document.addEventListener("blur", () => {
   const iframe = document.querySelector("iframe");
   if (document.activeElement === iframe) {
     drop_list.style.display = 'none';
