@@ -39,7 +39,7 @@ const data_map = {
         },
         {
             'title': 'Turning from Morden Road to Morden Hall Road',
-            'image': 'mordenhall roundabout to central london.jpeg',
+            'image': 'mordenhall roundabout to central london with arrows.jpeg',
             'video': 'https://www.youtube.com/embed/uuJaIpd42WA'           
         },
         {
