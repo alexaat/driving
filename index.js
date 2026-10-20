@@ -49,7 +49,7 @@ const data_map = {
         },
         {           
             'title': 'Turning from Morden Hall Road to Central Road',
-            'image': 'toNorthCheam.png',
+            'image': 'toNorthCheam with arrows.png',
             'video': 'https://www.youtube.com/embed/fGVy0HCafg0'
         }
     ],
