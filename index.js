@@ -34,7 +34,7 @@ const data_map = {
     'Morden Hall Roundabout': [
         {
             'title': 'Turning from St. Helier Avenue to Morden Road',
-            'image': 'mordenhall roundabout to croydon.jpeg',
+            'image': 'mordenhall roundabout to croydon with arrows.jpeg',
             'video': 'https://www.youtube.com/embed/M58sEARvNn8'
         },
         {
