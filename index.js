@@ -44,7 +44,7 @@ const data_map = {
         },
         {
             'title': 'Turning from Central Road to St. Helier Avenue',
-            'image': 'mordenhall roundabout to m25.jpeg',
+            'image': 'mordenhall roundabout to m25 with arrows.jpeg',
             'video': 'https://www.youtube.com/embed/VZrueQsI7BU'           
         },
         {           
