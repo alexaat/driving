@@ -3,27 +3,27 @@ const data_map = {
     'Rosehill Roundabout': [
         {
             'title': 'Turning from St Helier Avenue towards Reigate and M25',
-            'image': 'Rosehill from st helier av to m25.jpeg',
+            'image': 'Rosehill from st helier av to m25.png',
             'video': 'https://www.youtube.com/embed/TkpgcCE-an0'
         },
         {
             'title': 'Turning from St Helier Avenue towards Sutton',
-            'image': 'Rosehill st helier av to sutton.jpeg',
+            'image': 'Rosehill st helier av to sutton.png',
             'video': 'https://www.youtube.com/embed/H8FKMTIc5UA'           
         },
         {
             'title': 'Turning from Bishopsford Road towards Sutton',
-            'image': 'Rosehill from bishopsford road to sutton.jpeg',
+            'image': 'Rosehill from bishopsford road to sutton.png',
             'video': 'https://www.youtube.com/embed/Ty70VtpKNug'            
         },
         {
             'title': 'Turning from Rose Hill towards St. Helier Avenue',
-            'image': 'Rose Hill to St Helier Avenue.png',
+            'image': 'Rose Hill to St Helier Avenue with arrows.png',
             'video': 'https://www.youtube.com/embed/OqWAsnIHnzg'  
         },
         {
             'title': 'Turning from Green Lane towards Reigate and M25',
-            'image': 'RosehillGreenLaneToReigateAv.png',
+            'image': 'RosehillGreenLaneToReigateAv with arrows.png',
             'video': 'https://www.youtube.com/embed/2JbtDTvbXUo'
         },
         {
